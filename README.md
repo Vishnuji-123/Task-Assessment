@@ -8,7 +8,7 @@ The application demonstrates end-to-end functionality, clean UI, CRUD operations
 ## 🚀 Live Application
 
 **Live URL:**  
-https://id-preview--a6058250-226c-45d4-b70c-7810114e7dab.lovable.app
+https://id-preview--a6058250-226c-45d4-b70c-7810114e7dab.
 
 The deployed version is fully functional and publicly accessible.
 
